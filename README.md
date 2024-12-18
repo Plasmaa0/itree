@@ -1,6 +1,9 @@
 # itree
 [![Nix](https://img.shields.io/badge/Nix-5277C3?logo=nixos&logoColor=fff)](#)
 
+
+This script gets your i3 layout of windows in _**HUMAN READABLE**_ format (not like `i3-save-tree` or `i3-msg -t "get_tree"`)
+
 ## Usage
 - Clone repo
 - Execute `./itree.sh`, nix will do it's thing
