@@ -4,14 +4,16 @@
 
 This script gets your i3 layout of windows in _**HUMAN READABLE**_ format (not like `i3-save-tree` or `i3-msg -t "get_tree"`)
 
+It is not supposed to be used as something really useful, just for exploring i3 maybe or smth.
+
 ## Usage
 - Clone repo
 - Execute `./itree.sh`, nix will do it's thing
 - If that didn't work. Requirements:
-  - jq
-  - bat
-  - json2yaml
-  - i3
+  - `jq`
+  - `bat`
+  - `json2yaml`
+  - `i3`
 - Anyways the script is simple and you can modify it to work with less req's
 
 ## Preview
